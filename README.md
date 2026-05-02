@@ -18,16 +18,21 @@ Ce dépôt est construit de la manière suivante :
 |  |   ├── contexte.pdf  
 |  |   ├── objectif.txt  
 |  |   ├── arborescence_site.pdf  
-|  |   ├── charte_graphique.pdf  
-|  |   └──   
+|  |   └── charte_graphique.pdf  
 |  ├── 3-logicielInterne/ # Troisième atelier professionnalisant en 1SIO  
 |  |   ├── code_source/ # Ce dossier contient tout le code du logiciel que nous avons développé  
 |  |   ├── contexte.pdf  
 |  |   ├── objectif.txt  
 |  |   ├── trello.png  
 |  |   ├── diagGantt-PERT.pdf  
+|  |   ├── guideUtilisateur.pdf  
 |  |   └── arborescence.png  
-|  ├── 
+|  ├── 4-applicationWeb/ # Quatrième atelier professionnalisant en 1SIO  
+|  |   ├── code_source/ # Ce dossier contient tout le code de l'application que nous avons développé  
+|  |   ├── contexte.pdf  
+|  |   ├── objectif.txt  
+|  |   ├── trello.png  
+|  |   └── documents.pdf # Ce fichier contient : cas d'utilisation textuel, maquette, diagramme de PERT, diagramme de Grantt, ordonnancement et arborescence  
 |  ├──  
 |  ├──  
 |  └──  

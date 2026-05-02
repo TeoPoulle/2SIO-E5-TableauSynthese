@@ -1,0 +1,28 @@
+Les objectifs à atteindre : 
+- Mettre en place une application web permettant aux clients de faire des demandes de réservation
+
+Travail à réaliser : 
+- Travailler en groupe ;
+- Ordonancer les fonctionnalités réalisées
+- Réaliser les cas d'utilisation textuels
+- Réaliser des maquettes écran
+- Développer une application web
+
+Ressources fournies : 
+- 
+
+
+
+
+
+
+
+Travail à rendre
+Vous devrez déposer cette partie au plus tard le mardi 13 mai 2025 au soir minuit sur
+Moodle, dans l’espace de dépôt prévu à cet effet. Vous devrez rendre :
+SLAM
+- l’ordre de réalisation des fonctionnalités au format groupeX_ordonnancement_taches.png
+- les cas d’utilisation textuels au format groupeX_cas_d_utilisation.pdf
+- une image de vos maquettes au format groupeX_maquettes.png
+- votre base de données au format groupeX_bdd.sql
+- votre application web développée groupeX_code_source.zip
