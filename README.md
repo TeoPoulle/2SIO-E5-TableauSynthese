@@ -20,7 +20,13 @@ Ce dépôt est construit de la manière suivante :
 |  |   ├── arborescence_site.pdf  
 |  |   ├── charte_graphique.pdf  
 |  |   └──   
-|  ├── 
+|  ├── 3-logicielInterne/ # Troisième atelier professionnalisant en 1SIO
+|  |   ├── code_source/ # Ce dossier contient tout le code du logiciel que nous avons développé  
+|  |   ├── contexte.pdf  
+|  |   ├── objectif.txt  
+|  |   ├── arborescence_site.pdf  
+|  |   ├── charte_graphique.pdf  
+|  |   └── guideUtilisateur.pdf
 |  ├── 
 |  ├──  
 |  ├──  

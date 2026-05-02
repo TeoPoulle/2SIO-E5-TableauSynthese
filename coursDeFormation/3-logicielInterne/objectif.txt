@@ -1,0 +1,23 @@
+Les objectifs à atteindre : 
+- Mettre en place un logiciel pour les employés de l'entreprise 
+
+Travail à réaliser : 
+- Travailler en groupe ; 
+- Réaliser des diagrammes (PERT et Gantt) afin de mieux se projeter sur la réalisation du projet ;
+- Mettre en place un outil de gestion de projet (Trello) pour se répartir les tâches et voir l'avancement du projet ; 
+- Réaliser l'arborescence des fonctionnalités à développer ;
+- Réaliser une maquette pour chaque fonctionnalités à développer
+- Développer les fonctionnalités suivantes : 
+    - Afficher la liste de tous les véhicules disponibles pour une date donnée.
+    - Réserver un véhicule pour un client à une certaine date et pour une certaine durée.
+    - Posséder un système de connexion pour les employés.
+    - Afficher une liste de véhicules selon plusieurs critères (type de véhicule, marque,
+modèle, etc.).
+    - Supprimer un véhicule ou le rendre indisponible pour cause de réparations ou autres.
+    - Obtenir des informations sur une location, c’est-à-dire à partir d’un véhicule, afficher
+les clients qui l’ont réservé, et inversement, à partir d’un client, afficher les véhicules
+qu’il a réservé.
+- Créer un guide utilisateur à l'attention des employés de l'entreprise 
+
+Ressources fournies : 
+- La base de données associée au projet
