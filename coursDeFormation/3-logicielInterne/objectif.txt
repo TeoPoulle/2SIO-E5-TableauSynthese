@@ -1,5 +1,7 @@
 Les objectifs à atteindre : 
 - Mettre en place un logiciel pour les employés de l'entreprise 
+- Réaliser un guide à destination des utilisateurs
+- Travailler en mode projet
 
 Travail à réaliser : 
 - Travailler en groupe ; 
