@@ -1,0 +1,11 @@
+Les objectifs à atteindre lors de ce premier atelier professionnalisant sont : 
+- Mettre en place une infrastructure infromatique nécessaire au bon fonctionnement de l'entreprise
+- Créer un environnement de travail pour permettre au technicien informatique de gérer efficacement le réseau
+- Dresser une liste de matériels et logiciels informatiques qui seront ajoutés au cahier des charges de l'entreprise
+- Travailler sur l'adressage IP et le paramétrage sur l'ensemble des équipements connectés au réseau
+
+Travail à réaliser : 
+- Travailler en binôme ; 
+- Devis des équipements adaptés aux usages et ajustés aux besoins de chaque salle ; 
+- Document montrant au technicien comment est agencé le réseau de l'entreprise ; 
+- Documentation technique à destination du technicien expliquant la paramétrage du réseau.

@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+    <head> <!-- A ne pas toucher, c'est la base d'une page web -->
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="styles.css" rel="stylesheet">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet">
+     <title>Contacter MOVA</title>    
+    </head>
+
+    <body class="container-fluid">
+        <div class="row" id="head">
+            <img src="images/LogoMOVA.png" class="col-2 offset-1" id="logo"> 
+            <div class="col-4 offset-5 my-auto"> <!-- Essentiel pour permettre la navigation au sein du site MOVA -->
+                <nav class="navbar navbar-expand-lg"> 
+                    <div class="collapse navbar-collapse">
+                        <a class="nav-item nav-link" href="index.html"> Accueil </a>
+                        <a class="nav-item nav-link" href="catalogue.html"> Catalogue </a>
+                        <a class="nav-item nav-link" href="materiel.html"> Matériel </a>
+                        <a class="nav-item nav-link" href="contact.html"> Contact </a>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <!-- Le contenu principal de la page -->
+        <h1 class="row justify-content-center"> Pour nous contacter </h1>
+
+        <div class="row">
+            <h3 class="col-12"> Formulaire de contact </h3> <!-- Contenu de la page -->
+        </div>
+        <div class="row justify-content-center">
+            <form method="post" action="mailto:" class="col-10"> 
+                <fieldset class="row">
+                    <legend class="col-auto"> Nous vous répondrons avec grand plaisir ! </legend>
+                    <table>
+                        <tr class="row"> 
+                            <td class="col-4"> Votre adresse mail : </td>
+                            <td class="col-8"> <input type="email" name="adressemail" maxlength="50" size="72" id="zonetxt"> </td>
+                        </tr>
+                        <tr class="row"> 
+                            <td class="col-4"> Votre numéro de téléphone : </td>
+                            <td class="col-8"> <input type="tel" name="telephone" maxlength= "10" size="72" id="zonetxt"> </td>
+                        </tr>                                                   <!-- Pb avec size pour le responsive design -->
+                        <tr class="row"> 
+                            <td class="col-4"> Votre demande concerne : </td>
+                            <td class="col-8"> 
+                                <select name="sujetdemande">
+                                    <option value="defaut"> --Défaut--</option>
+                                    <option value="location"> Locations </option>
+                                    <option value="materiel"> Matériel </option>
+                                    <option value="info"> Informations </option>
+                                    <option value="forfait"> Forfaits </option>
+                                    <option value="autre"> Autres </option>
+                                </select>
+                            </td>
+                        </tr>
+                        <tr class="row"> 
+                            <td class="col-4"> A vous d'écrire : </td>
+                            <td class="col-8"> <textarea cols="75" rows="5"> </textarea> </td>
+                        </tr>
+                        <tr class="row">
+                            <td class="col-2 offset-4"> <input type="reset" value="Annuler" id="bouton"> </td>
+				            <td class="col-2 offset-2"> <input type="submit" value="Envoyer" id="bouton"> </td>
+                        </tr>
+                    </table>
+                </fieldset>
+            </form>
+        </div>
+
+        <!-- Cette partie correspond au pied de page -->
+        <div class="row" id="foot"> 
+            <img src="images/LogoMOVA.png" class="col-2 offset-1" id="logo">
+            <div class="col-4 offset-1"> 
+                <div class="row"> 
+                    <p class="col-12" id="email"> Vous pouvez aussi nous trouver sur <br> ces réseaux : </p>
+                    <div class="row">
+                        <img src="images/facebook.png" class="col-auto offset-1" id="reseau"> 
+                        <img src="images/instagram.png" class="col-auto" id="reseau">
+                        <img src="images/twitter.png" class="col-auto" id="reseau">
+                        <img src="images/linkedin.png" class="col-auto" id="reseau">
+                    </div> 
+                </div>
+            </div> 
+            <div class="col-4">
+                <p class="row" id="email"> Vous pouvez également nous contacter <br> via notre mail : </p> 
+                <p class="col-11 offset-1" id="email"> contact@mova-transport.fr </p>
+                <div class="row">
+                    <a class="col-5 offset-6" id="mention"> Mentions légales </a>
+                </div>
+            </div>
+        </div>
+
+    </body>
+
+</html>

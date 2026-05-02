@@ -1,0 +1,142 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/** Les couleurs de fonds **/
+#head {
+    background-color: #487948;
+    padding-top : 1%;
+    padding-bottom : 1%;
+}
+nav, h1, #bouton { 
+    background-color: #548D54;
+}
+h3, #location {
+    background-color: #8CBF8C;
+}
+#foot, button, img {
+    background-color: rgb(193, 240, 193);
+}
+
+/** Le logo **/ 
+#logo {
+    object-fit :fill ;
+    background-color: transparent !important;
+}
+
+/** Couleur des écritures, si pas modification = noir de base**/
+nav, h1, h3, a, #bouton {
+    color : white; 
+}
+
+/** Les images présentes sur le site, sauf logo **/
+img {
+    object-fit : none;
+    max-height: 200px;
+    max-width : auto;
+}
+
+/** Disposition des éléments **/
+h1, h3 {
+    text-align : center;
+    padding-top : 5px;
+    padding-bottom : 5px;
+}
+a { 
+    margin-right : 3.5%;
+    margin-left : 3.5%;
+}
+p, article {
+    text-align: justify;
+    padding-bottom : 8%;
+    padding-top : 1%;
+}
+nav {
+    border-radius: 8px;
+}
+#navlocation, #navsolution {
+    margin-top : 10px ;
+}
+
+/** Le pied de page **/
+#foot {
+    margin-top : 15px;
+    padding-top : 1%;
+    padding-bottom : 1%;
+}
+#foot > p, #foot > div > div > div > p {
+    padding-bottom : 0px !important;
+    padding-top : 15px !important;
+}
+#foot > #logo {
+    filter : grayscale(100%);
+    object-fit: contain !important;
+}
+#email {
+    margin-bottom : 0px !important;
+    padding-bottom: 0px !important;  
+}
+#reseau {
+    background-color: transparent;
+}
+a#mention {
+    text-align: right;
+}
+
+/** Pour le formulaire de contact **/
+legend {
+    color : gray; 
+    font-style : italic;
+    font-size: medium !important;
+}
+form {
+    padding-top : 2% ; 
+    padding-bottom : 5% ; 
+}
+tr { 
+    padding-bottom : 10px ; 
+}
+#bouton {
+    border-color : #548D54 ;
+}
+#zonetxt {
+    size:70% ; /** A voir pour le responsive design des input du formulaire **/
+}
+
+/** Pour les effets de style de la page Catalogue **/
+#catalogue {
+    text-decoration: none;
+    border-color : transparent ;
+    color : black ;
+    border-radius : 8px ;
+}
+button#catalogue {
+    margin-top : 2% ; 
+    margin-bottom : 2% ;
+}
+#menunav {
+    background-color: white;
+}
+
+/** Effets de style de la page Location **/
+#location, #bouton {
+    border-radius: 8px;
+    border-color :#8CBF8C;
+}
+#textelocation { 
+    padding-bottom : 2% !important;
+    text-align : center ;
+}
+#contenulocation {
+    padding-top : 30px ;
+}
+
+/** Pour la page Matériel **/
+#banniere {
+    margin-bottom : 1% ;
+}
+
+/** Pour la page Solution & Formation **/
+#navsolution {
+    padding-left : 10px ;
+}

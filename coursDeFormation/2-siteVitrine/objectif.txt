@@ -1,0 +1,17 @@
+Les objectifs à atteindre : 
+- Mettre en place un site vitrine pour présenter les services offerts par l'entreprise 
+
+Travail à réaliser : 
+- Travailler en binôme ; 
+- Développer un site vitrine en HTML / CSS en respectant les contraintes imposées
+    - Un menu de navigation entre les différentes pages ; 
+    - Plusieurs pages présentant l'entreprise, les différentes offres et le matériel mis à disposition ; 
+    - Utiliser un framework CSS (Bootstrap) ;
+    - Mise en place du responsive design (affichage adapté en fonction des différentes tailles d'écran) ; 
+    - Un site simple d'utilisation et intuitif pour une meilleure expréience utilisateur ; 
+    - Réaliser des documentations (charte graphique, arborescence, maaquettes); 
+    - Mettre en place un serveur web
+
+Ressources fournies : 
+- Liste des offres proposées aux clients ; 
+- Serveur Linux sur le réseau interne au BTS ; 
