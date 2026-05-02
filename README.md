@@ -33,9 +33,30 @@ Ce dépôt est construit de la manière suivante :
 |  |   ├── objectif.txt  
 |  |   ├── trello.png  
 |  |   └── documents.pdf # Ce fichier contient : cas d'utilisation textuel, maquette, diagramme de PERT, diagramme de Grantt, ordonnancement et arborescence  
-|  ├──  
-|  ├──  
-|  └──  
+|  ├──  5-centrerEtudes/ # Premier AP en 2SIO  
+|  |   ├── contexte.pdf  
+|  |   ├── projetGithub.png  
+|  |   ├── [Lien vers le premier projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet1)  
+|  |   ├──   
+|  |   └──   
+|  ├──  6-gestionQuestionnaire/ # Deuxième AP en 2SIO  
+|  |   ├── contexte.pdf  
+|  |   ├── projetGithub.png  
+|  |   ├── [Lien vers le deuxième projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet2)  
+|  |   ├──   
+|  |   └──   
+|  └──  7-applicationMobile/ # Troisième AP en 2SIO  
+|  |   ├── contexte.pdf  
+|  |   ├── projetGithub.png  
+|  |   ├── [Lien vers le troisième projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet3)  
+|  |   ├──   
+|  |   └──   
 ├── stage1SIO/ # Partie concernant ce que j'ai pu faire lors de mon stage de première année  
+|  └── siteVitrine/  
 ├── stage2SIO/ # Partie qui va contenir mes réalisations lors de mon stage de deuxième année  
+|  ├── 1-certificats/  
+|  ├── 2-glpi/  
+|  ├── 3-recupererMateriels/  
+|  ├── 4-configurationEnvi/  
+|  └── 5-supervisionUtilisateur/  
 └── PoulleTeo_TableauSynthese.pdf # Il s'agit tout simplement du tableau de synthèse de mes réalisations durant mes deux années de BTS  
