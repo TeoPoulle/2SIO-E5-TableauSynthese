@@ -4,7 +4,7 @@
 
 ## Structure du dépôt
 
-* Ce dépôt est construit de la manière suivante :  
+Ce dépôt est construit de la manière suivante :  
 ├── coursDeFormation/ # Partie relative à mes réalisations dans le cadre de ce BTS  
 |  ├── 1-parcInformatique/ # Premier atelier professionnalisant en 1SIO  
 |  |   ├── contexte.pdf  
@@ -14,6 +14,7 @@
 |  |   └── parametrage_reseau.pdf  
 |  ├── 2-siteVitrine/ # Deuxième atelier professionnalisant en 1SIO  
 |  |   ├── code_source/ # Ce dossier contient tout le code du site que nous avons développé  
+|  |   ├── image_rendu/ # Ce dossier contient des images montrant le rendu du site développé  
 |  |   ├── contexte.pdf  
 |  |   ├── objectif.txt  
 |  |   ├── arborescence_site.pdf  
