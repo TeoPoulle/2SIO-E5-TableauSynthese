@@ -1,0 +1,11 @@
+# pip install -r requirements.txt
+
+# Module permettant de faire des requêtes HTTP
+requests==2.32.3
+
+# Module permettant le traitement des dates
+datetime==6.0
+python-dateutil==2.9.0
+
+# Module permettant de faire des graphiques
+matplotlib==3.10.8

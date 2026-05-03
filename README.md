@@ -36,27 +36,31 @@ Ce dépôt est construit de la manière suivante :
 |  ├──  5-centrerEtudes/ # Premier AP en 2SIO  
 |  |   ├── contexte.pdf  
 |  |   ├── projetGithub.png  
-|  |   ├── [Lien vers le premier projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet1)  
-|  |   ├──   
-|  |   └──   
+|  |   └── [Lien vers le premier projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet1)   
 |  ├──  6-gestionQuestionnaire/ # Deuxième AP en 2SIO  
 |  |   ├── contexte.pdf  
 |  |   ├── projetGithub.png  
-|  |   ├── [Lien vers le deuxième projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet2)  
-|  |   ├──   
-|  |   └──   
+|  |   └── [Lien vers le deuxième projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet2)  
 |  └──  7-applicationMobile/ # Troisième AP en 2SIO  
 |  |   ├── contexte.pdf  
 |  |   ├── projetGithub.png  
-|  |   ├── [Lien vers le troisième projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet3)  
-|  |   ├──   
-|  |   └──   
+|  |   └── [Lien vers le troisième projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet3)  
 ├── stage1SIO/ # Partie concernant ce que j'ai pu faire lors de mon stage de première année  
 |  └── siteVitrine/  
 ├── stage2SIO/ # Partie qui va contenir mes réalisations lors de mon stage de deuxième année  
-|  ├── 1-certificats/  
-|  ├── 2-glpi/  
-|  ├── 3-recupererMateriels/  
-|  ├── 4-configurationEnvi/  
-|  └── 5-supervisionUtilisateur/  
+|  ├── 1-certificats/ # Je ne vais renseigner que les documents importants  
+|  |   ├── readme.md # Guide à l'attention des techniciens   
+|  |   └── Le reste du contenu est nécessaire au bon fonctionnement de mes programmes et/ou documentations supplémentaires  
+|  ├── 2-glpi/ # Je ne vais renseigner que les documents importants  
+|  |   ├── readme.md # Guide à l'attention des techniciens   
+|  |   └── Le reste du contenu est nécessaire au bon fonctionnement de mes programmes et/ou documentations supplémentaires  
+|  ├── 3-recupererMateriels/ # Je ne vais renseigner que les documents importants  
+|  |   ├── readme.md # Guide à l'attention des techniciens   
+|  |   └── Le reste du contenu est nécessaire au bon fonctionnement de mes programmes et/ou documentations supplémentaires  
+|  ├── 4-configurationEnvi/ # Ce dossier va contenir toutes les captures d'écran relatives à la configuration du nouvel environnement  
+|  |   ├── objectif.txt  
+|  |   └──  
+|  └── 5-supervisionUtilisateur/ # Je ne vais renseigner que les documents importants  
+|  |   ├── readme.md # Guide à l'attention des techniciens   
+|  |   └── Le reste du contenu est nécessaire au bon fonctionnement de mes programmes et/ou documentations supplémentaires  
 └── PoulleTeo_TableauSynthese.pdf # Il s'agit tout simplement du tableau de synthèse de mes réalisations durant mes deux années de BTS  

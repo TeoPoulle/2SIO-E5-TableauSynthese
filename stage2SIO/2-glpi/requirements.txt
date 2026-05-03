@@ -1,0 +1,13 @@
+# pip install -r requirements.txt
+
+# Module permettant l'utilisation de l'API de GLPI
+glpi_api==0.7.0
+
+# Module permettant de faire des requêtes HTTP
+requests==2.32.3
+
+# Module permettant de générer des documents PDF ou des graphiques
+reportlab==4.4.9
+
+# Module permettant de faire des graphiques
+matplotlib==3.10.8

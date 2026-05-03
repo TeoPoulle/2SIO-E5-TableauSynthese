@@ -1,0 +1,8 @@
+2026-02-11 15:53:18,380 [INFO] expiringAppDate.py : Vérification des applications terminée. Nombre total d'entrées: 9
+2026-02-11 15:53:18,380 [INFO] expiringAppDate.py : Statistiques - Expiré : 2, Expire dans moins d'un mois : 0, Expire dans moins de 6 mois : 1, Valide : 6
+2026-02-11 15:53:52,703 [INFO] sendingExpiringData.py : Code d'authentification copié dans le presse-papier : GRRSMKMEV
+2026-02-11 15:55:31,582 [INFO] sendingExpiringData.py : Code d'authentification copié dans le presse-papier : LLN6JJCPY
+2026-02-11 15:56:59,431 [INFO] sendingExpiringData.py : Code d'authentification copié dans le presse-papier : C2EKKTXRE
+2026-02-11 15:57:18,724 [INFO] sendingExpiringData.py : Message envoyé avec succès
+2026-02-11 16:02:04,715 [INFO] sendingExpiringData.py : Message envoyé avec succès
+2026-02-11 16:03:04,418 [INFO] sendingExpiringData.py : Message envoyé avec succès

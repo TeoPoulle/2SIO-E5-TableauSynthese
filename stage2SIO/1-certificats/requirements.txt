@@ -1,0 +1,16 @@
+# Installation: pip install -r requirements.txt
+
+# Framework web pour serveur Flask (test.py)
+Flask==3.1.1
+
+# Pour sécuriser les applications Flask
+pyopenssl==25.3.0
+
+# Bibliothèque pour les requêtes HTTP
+requests==2.32.3
+
+# Bibliothèque d'authentification Microsoft (MSAL)
+msal==1.34.0
+
+# Bibliothèque pour la copie dans le presse-papier
+pyperclip==1.11.0
