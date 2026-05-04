@@ -59,9 +59,8 @@ Ce dépôt est construit de la manière suivante :
 |  ├── 3-recupererMateriels/ # Je ne vais renseigner que les documents importants  
 |  |   ├── readme.md # Guide à l'attention des techniciens   
 |  |   └── Le reste du contenu est nécessaire au bon fonctionnement de mes programmes et/ou documentations supplémentaires  
-|  ├── 4-configurationEnvi/ # Ce dossier va contenir toutes les captures d'écran relatives à la configuration du nouvel environnement  
-|  |   ├── objectif.txt  
-|  |   └──  
+|  ├── 4-configurationEnvi/ # Ce dossier va contenir les informations relatives à la configuration du nouvel environnement  
+|  |   └── objectif.txt  
 |  └── 5-supervisionUtilisateur/ # Je ne vais renseigner que les documents importants  
 |  |   ├── readme.md # Guide à l'attention des techniciens   
 |  |   └── Le reste du contenu est nécessaire au bon fonctionnement de mes programmes et/ou documentations supplémentaires  
