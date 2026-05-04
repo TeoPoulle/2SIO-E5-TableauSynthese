@@ -1,0 +1,4 @@
+- Installer docker sur debian : 
+https://www.it-connect.fr/installation-pas-a-pas-de-docker-sur-debian-11/ 
+- Configurer le docker pour avoir GLPI : 
+https://help.glpi-project.org/tutorials/fr/procedures/running_glpi_on_docker 

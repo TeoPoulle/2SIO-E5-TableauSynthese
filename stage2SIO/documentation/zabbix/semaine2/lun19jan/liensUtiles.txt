@@ -1,0 +1,12 @@
+Création environnement machine pour fct°mt Zabbix : 
+- Debian 13 Cinnamon
+https://cloudspinx.com/install-cinnamon-desktop-environment-on-debian/ 
+- Partition LMV non chiffré
+https://www.it-connect.fr/chapitres/creation-et-gestion-dune-structure-lvm/ 
+- Compte root non accessible en SSH
+https://www.ibm.com/docs/fr/db2/11.1.0?topic=installation-enable-disable-remote-root-login 
+- Création d’un compte avec des hauts privilèges
+- Installation de Fail2Ban ⇒ Ban de 5 minutes
+https://wiki.crowncloud.net/?How_To_Protect_SSH_With_Fail2Ban_on_Debian_13 
+- Installation Firewall cmd
+https://linuxcapable.com/how-to-install-firewalld-on-debian-linux/ 

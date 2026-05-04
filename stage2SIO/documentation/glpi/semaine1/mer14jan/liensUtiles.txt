@@ -1,0 +1,3 @@
+Documentations pour mieux comprendre la gestion des tickets : 
+https://docs.octopus-itsm.com/fr/articles/modele-de-base-incidents-pre-configurations 
+https://help.glpi-project.org/documentation/fr/modules/administration/forms 
