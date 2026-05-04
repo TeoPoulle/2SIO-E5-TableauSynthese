@@ -35,6 +35,8 @@ Ce dépôt est construit de la manière suivante :
 |  |   └── documents.pdf # Ce fichier contient : cas d'utilisation textuel, maquette, diagramme de PERT, diagramme de Grantt, ordonnancement et arborescence  
 |  ├──  5-centrerEtudes/ # Premier AP en 2SIO  
 |  |   ├── contexte.pdf  
+|  |   ├── compteRendu.pdf # Expression besoin d'amélioration
+|  |   ├── diaporamaCompteRendu.pdf   
 |  |   ├── projetGithub.png  
 |  |   └── [Lien vers le premier projet de 2SIO](https://github.com/TeoPoulle/2SIO-Projet1)   
 |  ├──  6-gestionQuestionnaire/ # Deuxième AP en 2SIO  

@@ -1,0 +1,19 @@
+Actuellement, les différentes études sont gérées de manière indépendante par les services de la clinique, chacun utilisant son
+propre système d’information. Cette organisation ne permet pas d’obtenir des résultats centralisés, complets et exploitables dans
+des délais raisonnables.
+Afin d’améliorer cette situation, la direction de l’établissement, en collaboration avec le Professeur Justin, chef du service de
+chirurgie digestive, et Monsieur Tallard, responsable de la DSI, a décidé de lancer trois projets majeurs d’évolution du système
+d’information lié à ces études :
+1. Centralisation des études dans une base de données unique
+Ce projet vise à regrouper l’ensemble des études, y compris celles partagées entre plusieurs services, comme le QLQ-
+C30, au sein d’une base commune. Il permettra de mieux gérer les inclusions, de suivre les patients volontaires et de
+faciliter l’analyse transversale des données.
+2. Saisie directe des questionnaires par les patients dans le cadre du programme ReCaRe et gestion des
+visites
+Une interface web sera développée pour permettre aux patients de renseigner eux-mêmes les questionnaires en ligne.
+Les réponses seront transmises automatiquement au CHU de Bordeaux, centre coordinateur de l’étude. Cela offrira au
+Professeur Justin un accès plus rapide aux résultats, sans attendre les retours différés du centre coordinateur.
+3. Création d’une application mobile de suivi des habitudes intestinales
+Cette application permettra aux patients de consigner quotidiennement leurs données digestives (fréquence, forme des
+selles, douleurs, etc.). Les informations recueillies aideront les praticiens à affiner le suivi post-traitement, notamment
+après un cancer colorectal ou en cas de pathologie digestive chronique.
