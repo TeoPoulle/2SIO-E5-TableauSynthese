@@ -15,3 +15,7 @@ Détail de l'environnement à configurer de 0 (avec lien des documentations util
     https://wiki.crowncloud.net/?How_To_Protect_SSH_With_Fail2Ban_on_Debian_13 
 - Installation Firewall cmd
     https://linuxcapable.com/how-to-install-firewalld-on-debian-linux/ 
+
+
+Remarque : Je n'ai pas eu l'autorisation de prendre des captures d'écran de la configuration,
+Tout ce que j'ai réalisé pour la configuration se trouve en suivant tous les liens ci-dessus
